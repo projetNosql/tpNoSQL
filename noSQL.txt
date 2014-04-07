@@ -1,0 +1,31 @@
++ Partie actualités
+	Commenter ( avec pouce vert et rouge)
+	Note
+	date de création/modification
+	auteur
+	photos et vidéos
+	partage réseaux sociaux avec nombre de partages / réseaux
+	1 colonne de méta données --> partage du site
+				  --> inscription/connexion
+				  --> sondage sur une journée avec résultats journé précédente
+	retour haut de page style korben
+	chat all
+	création d'article par la communauté et validation par les bloggers puis possibilité de modérateur
++ Partie actualités / voir
+	Les derniers articles
+	bouton accueil
+	bouton retour
+	
+
++flux rss
+
+
++partie e-commerce
+	fonctionnalités : + inspirés cyprien
+			  + monnaie alternative avec gain pour partage d'articles et création d'articles
+
+	technique :  + développé une page de 9 éléménts
+		     + une page du détail élément
+		     + une page de panier
+
+
